@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "AC Optimal Power Flow (AC-OPF) Using Neural Networks & PandaPower"
+message: "If you use this software in your research on smart grid optimization, please cite this repository."
+type: software
+authors:
+  - family-names: "Khan"
+    given-names: "Rabia"
+    email: "rabiakhan13309@gmail.com"
+    affiliation: "Department of Information Technology, University of Haripur & PAF-IAST"
+license: MIT
+version: 1.0.0
+date-released: "2026-10-25"
